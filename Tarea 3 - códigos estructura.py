@@ -1,3 +1,5 @@
+#Martín Steed Vélez Segarra
+#Estructura de datos - A1
 import os
 
 class Ejercicios_python:
